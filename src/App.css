@@ -1,0 +1,52 @@
+.App {
+  text-align: left;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  max-height: 600px;
+  overflow-y: auto;
+}
+h2{
+  font-size: 30px;
+}
+
+.inputTitle {
+  padding: 10px;
+  
+}
+
+p{
+  margin-bottom: 0%;
+}
+form{
+  text-align: left;
+  margin-bottom: 50px;
+}
+.submitButton {
+  padding: 8px 15px;
+  cursor: pointer;
+  
+}
+
+
+ .list{
+  margin-bottom: 0px;
+  display: left;
+   
+}
+
+.todoList li input {
+  font-size: 15px;
+  border: none;
+}
+/*
+.deletebutton {
+  padding: 8px 15px;
+  cursor: pointer;
+}*/
+
+.todoList li textarea {
+  margin-bottom: 20px;
+  
+} 
